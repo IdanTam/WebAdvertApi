@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Authors>Idan Tam</Authors>
+    <Product>Web Advert MS</Product>
+    <PackageProjectUrl>https://github.com/IdanTam/WebAdvertApi</PackageProjectUrl>
+    <RepositoryType></RepositoryType>
+    <RepositoryUrl>https://github.com/IdanTam/WebAdvertApi</RepositoryUrl>
+    <PackageId>AdvertApi.Models.Idant77</PackageId>
   </PropertyGroup>
 
 </Project>
