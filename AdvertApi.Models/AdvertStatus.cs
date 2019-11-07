@@ -8,6 +8,6 @@ namespace AdvertApi.Models
     {
         Pending = 1,  
         Active = 2
-        //test create branch
+        //test c
     }
 }
